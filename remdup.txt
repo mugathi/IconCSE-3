@@ -1,0 +1,25 @@
+Remove duplicates from a given a numerical array
+Time Complexity: O(n)
+Input values ranging: 0 to +99999999
+						2<=n<=20
+
+Eg:
+Input:
+n : first line denotes the size of array
+next n lines denote the elements of array
+Output:
+print size of array after removing duplicates
+
+
+Input:
+5
+1
+3
+3
+4
+4
+
+Output:
+3
+Explaination:
+[1,3,4] is array after removing duplicates
